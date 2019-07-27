@@ -1,2 +1,2 @@
 # laravel-blog
-First Laravel Project
+This is an itermediate project to learn Laravel framework.
