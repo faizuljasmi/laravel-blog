@@ -1,2 +1,2 @@
 # laravel-blog
-This is an itermediate project to learn Laravel framework.
+This is an intermediate project to learn Laravel framework.
